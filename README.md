@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭  I’m currently working on [Sky](https://www.linkedin.com/company/skyportugal/mycompany/) for PeacockTV app at Core Video Player Team
+- 🌱  I’m currently learning flutter and nextjs
+- 😄  Co-founder of [QRcode Preferido](https://qrcodepreferido.com/)(Cardápio Digital)
+- 👯  I’m looking to collaborate on awesome open source projects!
+- 📫  How to reach me: uilton.jose@gmail.com 
+-  ⚡  Fun fact: play piano on free time and take care of my beautiful daughter Sofia <3 
