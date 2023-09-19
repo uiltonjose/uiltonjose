@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭  I’m currently working on [Reachdesk](https://www.linkedin.com/company/reachdesk/mycompany/) as a Full Stack developer, with React and Ruby on Rails.
+- 🔭  I’m currently working on [Reachdesk](https://www.linkedin.com/company/reachdesk/mycompany/) as a Senior Full Stack developer, with React and Ruby on Rails.
 - 🔭  Previously worked on [Sky](https://www.linkedin.com/company/skyportugal/mycompany/) building the Core Video Android SDK to be used on PeacockTV, NOW and other propositions from Sky and the Comcast Group, delivering video streaming to millions of users on Android and AndroidTV/FireTV.
 - 🌱  I’m currently learning flutter and nextjs
 - 😄  Co-founder of [QRcode Preferido](https://qrcodepreferido.com/)(Cardápio Digital)
